@@ -3,3 +3,4 @@ test 1
 + test git gui
 + test commit -a
 test conflict(another branch)
+test conflict(master)
